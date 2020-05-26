@@ -14,7 +14,7 @@ role: Ph.D. Candidate.
 
 # Organizations/Affiliations
 organizations:
-- name: 1. School of Public Policy and Management, University of Chinese Academy of Sciences;
+- name: 1. School of Public Policy and Management, University of Chinese Academy of Sciences
   url: "https://sppm.ucas.ac.cn/index.php/zh-CN/"
 - name: 2. Institutes of Science and Development, Chinese Academy of Sciences
   url: "http://www.casisd.cn/"
