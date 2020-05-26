@@ -1,5 +1,5 @@
 ---
-title: "Study on an implementation scheme of synergistic emission reduction of CO textlessinftextgreater2textless/inftextgreater and air pollutants in China's steel industry"
+title: "Study on an implementation scheme of synergistic emission reduction of CO2 and air pollutants in China's steel industry"
 date: 2019-01-01
 publishDate: 2020-05-26T08:28:29.460077Z
 authors: ["H. Li", "X. Tan", "J. Guo", "K. Zhu", "C. Huang"]
