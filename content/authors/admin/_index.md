@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD. Candidate, Chinese Academy of Sciences.
+role: Ph.D. Candidate.
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chinese Academy of Sciences
-  url: ""
+- name: 1. School of Public Policy and Management, University of Chinese Academy of Sciences; 2. Institutes of Science and Development, Chinese Academy of Sciences
+  url: "http://www.casisd.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Energy& Climate Policy, Biophysical Economics.
