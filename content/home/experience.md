@@ -25,11 +25,6 @@ date_format = "Jan 2006"
   date_start = "2012-09-01"
   date_end = "2016-06-30"
   description = ""Bachelor of Mechanical Engineering”“
-#  Responsibilities include:  
-#  * Analysing
-#  * Modelling
-#  * Deploying
-
 
 [[experience]]
   title = "Postgraduate student"
