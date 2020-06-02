@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:toocold@foxmail.com".
+  link: 'mailto:toocold@foxmail.com'  # For a direct email link, use "mailto:toocold@foxmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ChenHuangPolicy
