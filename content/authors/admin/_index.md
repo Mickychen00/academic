@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate.
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management Science& Engineering
+  - course: Ph.D. in Management Science& Engineering
     institution: University of Chinese Academy of Sciences
     year: 2018
   - course: MS in Applied Economics
