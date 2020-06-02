@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Tsingtao"
   date_start = "2012-09-01"
   date_end = "2016-06-30"
-  description = ""Bachelor of Mechanical Engineering"""
+  description = """Bachelor of Mechanical Engineering"""
 
 [[experience]]
   title = "Postgraduate student"
