@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Management Science& Engineering
+  - course: Ph.D. in Management Science& Engineering
     institution: University of Chinese Academy of Sciences
     year: 2018-2021
   - course: MS in Applied Economics
