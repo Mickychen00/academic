@@ -31,13 +31,13 @@ education:
   courses:
   - course: PhD in Management Science& Engineering
     institution: University of Chinese Academy of Sciences
-    year: 2018
+    year: 2018-2021
   - course: MS in Applied Economics
     institution: China University of Petroleum (Beijing)
-    year: 2016
+    year: 2016-2018
   - course: BSc in Mechanical Engineering
     institution: China University of Petroleum (East China)
-    year: 2012
+    year: 2012-2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
