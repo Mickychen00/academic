@@ -13,6 +13,7 @@ title = "My Photography"
 	image = "IMG_2.jpg"
 	caption = "Default1"
 # ... Put Your Section Options Here (title etc.) ...
-{{< figure library="true" src="IMG_1.jpg" title="A caption" lightbox="true" >}}
+
 +++
+{{< figure library="true" src="IMG_1.jpg" title="A caption" lightbox="true" >}}
 {{< gallery album="1" >}}
