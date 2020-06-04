@@ -1,4 +1,3 @@
-
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
@@ -13,11 +12,4 @@ title = "My Photography"
   columns = "1"
 
 +++
-# gallery_item:
-#  - album: gallery
-#    image: IMG_1.jpg
-#    caption: A caption
-#  - album: gallery
-#    image: IMG_2.jpg
-#    caption: Another caption
 {{< gallery >}}
