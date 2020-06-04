@@ -8,9 +8,7 @@ title = "My Photography"
 album = "1"
 image = "IMG_1.jpg"
 caption = "Default"
-
-[content]
-	{{< gallery album="1" >}}
 # ... Put Your Section Options Here (title etc.) ...
 
 +++
+{{< gallery album="1" >}}
