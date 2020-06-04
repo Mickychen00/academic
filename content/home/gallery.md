@@ -8,4 +8,4 @@ title = "My Photography"
 # ... Put Your Section Options Here (title etc.) ...
 
 +++
-{{< gallery album="gallary">}}
+{{< gallery album="gallery">}}
