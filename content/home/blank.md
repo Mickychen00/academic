@@ -11,7 +11,9 @@ title = "My Photography"
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 
+[content]
 {{< gallery >}}
+
 
 gallery_item:
  - album: gallery
