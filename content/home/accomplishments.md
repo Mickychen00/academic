@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "China University of Petroleum (Beijing)"
-  organization_url = "cup.edu.cn"
+  organization_url = ""
   title = "Outstanding Graduate Award"
   url = ""
   certificate_url = ""
