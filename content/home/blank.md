@@ -6,6 +6,5 @@ weight = 40  # Order that this section will appear.
 title = "My Photography"
 
 # ... Put Your Section Options Here (title etc.) ...
-
-+++
 {{< gallery album="gallery">}}
++++
