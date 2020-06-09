@@ -25,4 +25,4 @@ title = "My Photography"
 {{< figure library="true" src="IMG_5.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_6.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_7.jpg" title="A caption" lightbox="true" >}}
-{{< gallery album="gallery" >}}
+{{< gallery dir="/static/img/" />}} {{< load-photoswipe >}}
