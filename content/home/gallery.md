@@ -18,11 +18,4 @@ title = "My Photography"
 
 
 +++
-# {{< figure library="true" src="IMG_1.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_2.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_3.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_4.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_5.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_6.jpg" title="A caption" lightbox="true" >}}
-# {{< figure library="true" src="IMG_7.jpg" title="A caption" lightbox="true" >}}
 {{< gallery dir="/img/" />}} {{< load-photoswipe >}}
