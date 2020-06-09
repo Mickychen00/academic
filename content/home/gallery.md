@@ -4,6 +4,8 @@ headless = true  # This file represents a page section.
 active = true
 weight = 40  # Order that this section will appear.
 title = "My Photography"
+[design]
+	columns = "2"
 [[gallery_item]]
 	album = "1"
 	image = "IMG_1.jpg"
@@ -14,6 +16,7 @@ title = "My Photography"
 	caption = "Default1"
 # ... Put Your Section Options Here (title etc.) ...
 
+
 +++
 {{< figure library="true" src="IMG_1.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_2.jpg" title="A caption" lightbox="true" >}}
@@ -22,4 +25,4 @@ title = "My Photography"
 {{< figure library="true" src="IMG_5.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_6.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_7.jpg" title="A caption" lightbox="true" >}}
-{{< gallery album="1" >}}
+# {{< gallery album="1" >}}
