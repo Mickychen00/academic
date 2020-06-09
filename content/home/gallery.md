@@ -6,14 +6,14 @@ weight = 40  # Order that this section will appear.
 title = "My Photography"
 [design]
 	columns = "2"
-[[gallery_item]]
-	album = "1"
-	image = "IMG_1.jpg"
-	caption = "Default"
-[[gallery_item]]
-	album = "1"
-	image = "IMG_2.jpg"
-	caption = "Default1"
+# [[gallery_item]]
+# 	album = "1"
+# 	image = "IMG_1.jpg"
+# 	caption = "Default"
+# [[gallery_item]]
+# 	album = "1"
+# 	image = "IMG_2.jpg"
+# 	caption = "Default1"
 # ... Put Your Section Options Here (title etc.) ...
 
 
@@ -25,4 +25,4 @@ title = "My Photography"
 {{< figure library="true" src="IMG_5.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_6.jpg" title="A caption" lightbox="true" >}}
 {{< figure library="true" src="IMG_7.jpg" title="A caption" lightbox="true" >}}
-# {{< gallery album="1" >}}
+{{< gallery album="gallery" >}}
