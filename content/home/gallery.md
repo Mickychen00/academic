@@ -18,4 +18,4 @@ title = "My Photography"
 
 
 +++
-{{< gallery dir="/img/" />}} {{< load-photoswipe >}}
+{{< gallery caption-position="none" dir="/img/" />}} {{< load-photoswipe >}}
