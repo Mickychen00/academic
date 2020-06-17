@@ -25,9 +25,6 @@
   [headers.values]
     Content-Type = "application/rss+xml"
 
-[build]
-  publish = "public"
-
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
