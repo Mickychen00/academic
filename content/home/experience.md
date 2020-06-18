@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Undergraduate student"
   company = "China University of Petroleum (East China)"
-  company_url = "upc.edu.cn"
+  company_url = ""
   location = "Tsingtao"
   date_start = "2012-09-01"
   date_end = "2016-06-30"
@@ -29,10 +29,19 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Postgraduate student"
   company = "China University of Petroleum (Beijing)"
-  company_url = "cup.edu.cn"
+  company_url = ""
   location = "Beijing"
   date_start = "2016-09-01"
   date_end = "2018-06-30"
   description = """Master of Applied Economics"""
+
+[[experience]]
+  title = "Ph.D. student"
+  company = "Univeristy of Chinese Academy of Sciences"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2018-09-01"
+  date_end = "2021-06-30"
+  description = """Doctor of Management"""
 
 +++
