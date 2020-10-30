@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Ministry of Education of the People's Republic of China"
+  organization_url = ""
+  title = "National Scholarship for Postgraduates"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-30"
+  date_end = ""
+  description = "The highest academic honor for Chinese graduate students, only 0.2% of Chinese students can get this award."
+
+[[item]]
   organization = "Chinese Academy of Sciences"
   organization_url = ""
   title = "Chinese Academy of Sciences President Award"
@@ -26,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-09-30"
   date_end = ""
-  description = ""
+  description = "The most valuable award in the postgraduate scholarship of the Chinese Academy of Sciences"
 
 [[item]]
   organization = "China University of Petroleum (Beijing)"
