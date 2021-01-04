@@ -58,9 +58,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/CV_Chen_Huang.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV_Chen_Huang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
