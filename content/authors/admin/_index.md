@@ -39,8 +39,6 @@ education:
     institution: China University of Petroleum (East China)
     year: 2012-2016
 
-My CV:
-- {{% staticref "media/CV_Chen_Huang.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
