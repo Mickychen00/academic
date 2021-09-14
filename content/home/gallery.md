@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-active = false
+active = true
 weight = 40  # Order that this section will appear.
 title = "My Photography"
 [design]
