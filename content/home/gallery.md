@@ -1,5 +1,5 @@
 +++
-widget = "photography"
+widget = "blank"
 headless = true  # This file represents a page section.
 active = true
 weight = 60  # Order that this section will appear.
