@@ -2,7 +2,7 @@
 widget = "photography"
 headless = true  # This file represents a page section.
 active = true
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 title = "My Photography"
 [design]
 	columns = "2"
