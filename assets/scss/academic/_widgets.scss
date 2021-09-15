@@ -268,15 +268,15 @@ a.hero-cta-alt:hover {
 .avatar {
   width: 350px;
   height: 350px;
-  margin: 0 auto;
-  object-fit: cover;
+  margin: auto auto;
+  object-fit: scale-down;
 }
 
 // Use smaller avatar size in About widget on small devices.
 @include media-breakpoint-down(sm) {
   .wg-about .avatar {
     width: 1000px;
-    height: 1000px;
+    height: 300px;
   }
 }
 
@@ -529,7 +529,7 @@ ul.ul-edu li .description p.institution {
 .people-widget .avatar {
   width: 80%;
   max-width: 150px;
-  height: auto;
+  height: 150px;
 }
 
 @media (min-width: 576px) {
