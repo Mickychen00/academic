@@ -48,5 +48,7 @@ date_format = "Jan 2006"
   date_start = "2018-06-30"
   date_end = ""
   description = ""
-
+  
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
 +++

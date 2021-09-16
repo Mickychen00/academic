@@ -37,14 +37,14 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+  color = "white"  
   # Background color.
   # color = "navy"
   
@@ -65,8 +65,14 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
 
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
+
+
++++
+<!--
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+-->

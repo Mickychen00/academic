@@ -44,4 +44,9 @@ date_format = "Jan 2006"
   date_end = "2021-06-30"
   description = """Doctor of Management"""
 
+[design.spacing]
+padding = [ "20px", "0", "20px", "0" ]
+[design.background]
+color = "white"
+
 +++
