@@ -22,4 +22,4 @@ color = "white"
 
 
 +++
-{{< gallery caption-position="none" dir="img" />}} {{< load-photoswipe >}}
+{{< gallery caption-position="none" dir="/img" />}} {{< load-photoswipe >}}
