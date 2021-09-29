@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huang Chen | Chen Huang</title>
+    <link>/author/huang-chen/</link>
+      <atom:link href="/author/huang-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Huang Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>Huang Chen</title>
+      <link>/author/huang-chen/</link>
+    </image>
+    
+    <item>
+      <title>Driving Factors and Growth Potential of Provincial Carbon Productivity in China</title>
+      <link>/publication/niu2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/niu2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis on Development Trend of Patents in China Oil &amp; Gas Industry (In Chinese)</title>
+      <link>/publication/chen-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research on the metabolism of oil&amp; gas extraction industry: from the perspective of huge oilfields (In Chinese)</title>
+      <link>/publication/chen-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

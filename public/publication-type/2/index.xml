@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Chen Huang</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Driving Factors and Growth Potential of Provincial Carbon Productivity in China</title>
+      <link>/publication/niu2021/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/niu2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An international comparative research of the climate adaptation governance and its strategic implications</title>
+      <link>/publication/chen2020/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/chen2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extended-exergy based energy return on investment method and its application to shale gas extraction in China</title>
+      <link>/publication/chen-2020120933/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2020120933/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasible roadmap for CCS retrofit of coal-based power plants to reduce Chinese carbon emissions by 2050</title>
+      <link>/publication/guo-2020-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated operation for the planning of CO2 capture path in CCS–EOR project</title>
+      <link>/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy return on energy, carbon, and water investment in oil and gas resource extraction: Methods and applications to the Daqing and Shengli oilfields</title>
+      <link>/publication/huang-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study on an implementation scheme of synergistic emission reduction of CO2 and air pollutants in China&#39;s steel industry</title>
+      <link>/publication/li-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis on Development Trend of Patents in China Oil &amp; Gas Industry (In Chinese)</title>
+      <link>/publication/chen-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

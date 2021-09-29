@@ -16,7 +16,7 @@ title = "My Photography"
 # 	caption = "Default1"
 # ... Put Your Section Options Here (title etc.) ...
 [design.spacing]
-padding = [ "20px", "0", "20px", "0" ]
+padding = [ "20px", "0", "50px", "0" ]
 [design.background]
 color = "white"
 

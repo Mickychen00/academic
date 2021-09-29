@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Enhanced oil recovery | Chen Huang</title>
+    <link>/tag/enhanced-oil-recovery/</link>
+      <atom:link href="/tag/enhanced-oil-recovery/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enhanced oil recovery</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>Enhanced oil recovery</title>
+      <link>/tag/enhanced-oil-recovery/</link>
+    </image>
+    
+    <item>
+      <title>Integrated operation for the planning of CO2 capture path in CCS–EOR project</title>
+      <link>/publication/guo-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/guo-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
