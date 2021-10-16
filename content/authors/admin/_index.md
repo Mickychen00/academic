@@ -10,14 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. in Management Science& Engineering
+role: Boya Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: 1. School of Public Policy and Management, University of Chinese Academy of Sciences
-  url: "https://sppm.ucas.ac.cn/index.php/zh-CN/"
+- name: 1. College of Environmental Sciences and Engineering, Peking University 
+  url: "https://cese.pku.edu.cn/"
+
 - name: 2. Institutes of Science and Development, Chinese Academy of Sciences
-  url: "http://www.casisd.cn/"
+  url: "http://www.casisd.cn/" 
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Energy& Climate Policy, Biophysical Economics.
@@ -29,6 +31,9 @@ interests:
 
 education:
   courses:
+  - course: Postdoc in Climate Change Economics
+    institution: Peking University
+    year: 2021 to present
   - course: Ph.D. in Management Science& Engineering
     institution: University of Chinese Academy of Sciences
     year: 2018-2021
@@ -73,5 +78,5 @@ user_groups:
 - Visitors
 ---
 
-Chen Huang is a Ph.D. candidate of management science& engineering at the School of Public Policy and Management, UCAS. His research interests include climate governance, energy policy and ecological/biophysical economics.
+Chen Huang is a Boya Postdoctoral Researcher of Peking University. He holds a Ph.D. degree of management science& engineering at the School of Public Policy and Management, UCAS. His research interests include climate governance, energy policy and ecological/biophysical economics.
 
