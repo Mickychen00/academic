@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen | Chen Huang</title>
+    <link>/author/chen/</link>
+      <atom:link href="/author/chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2022 11:24:31 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>Chen</title>
+      <link>/author/chen/</link>
+    </image>
+    
+    <item>
+      <title>Evaluating cost and benefit of air pollution control policies in China: a systematic review</title>
+      <link>/publication/liu-2022-evaluating/</link>
+      <pubDate>Mon, 18 Apr 2022 11:24:31 +0800</pubDate>
+      <guid>/publication/liu-2022-evaluating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
