@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Sep 2021 09:48:53 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Apr 2022 11:24:31 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
       <title>Chen Huang</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Evaluating cost and benefit of air pollution control policies in China: a systematic review</title>
+      <link>/publication/liu-2022-evaluating/</link>
+      <pubDate>Mon, 18 Apr 2022 11:24:31 +0800</pubDate>
+      <guid>/publication/liu-2022-evaluating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My First Post</title>
@@ -21,14 +29,6 @@
 &lt;h2 id=&#34;this-is-my-second-post&#34;&gt;this is my second post&lt;/h2&gt;
 &lt;h3 id=&#34;this-is-third-post&#34;&gt;this is third post&lt;/h3&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Driving Factors and Growth Potential of Provincial Carbon Productivity in China</title>
-      <link>/publication/niu2021/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/niu2021/</guid>
-      <description></description>
     </item>
     
     <item>
