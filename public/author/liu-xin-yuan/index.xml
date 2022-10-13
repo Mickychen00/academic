@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LIU Xin-Yuan | Chen Huang</title>
+    <link>/author/liu-xin-yuan/</link>
+      <atom:link href="/author/liu-xin-yuan/index.xml" rel="self" type="application/rss+xml" />
+    <description>LIU Xin-Yuan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>LIU Xin-Yuan</title>
+      <link>/author/liu-xin-yuan/</link>
+    </image>
+    
+    <item>
+      <title>Analysis on the key findings related to emission trends and drivers from the IPCC AR6 report</title>
+      <link>/publication/xian-2022-analysis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/xian-2022-analysis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

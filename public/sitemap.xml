@@ -2,10 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/0/</loc>
-    <lastmod>2022-04-18T11:24:31+08:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/chen-huang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/tag/climate-adaptation/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/tag/climate-resilience/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/tag/climate-risk/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/hancheng-dai/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/ming-ren/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/pei-zhang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/tag/power-infrastructure/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/huang-2023106704/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/xianchun-tan/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/yingchao-chen/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/yuyao-zhu/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication-type/0/</loc>
     <lastmod>2022-04-18T11:24:31+08:00</lastmod>
   </url><url>
     <loc>/author/chaoyi-and-wu/</loc>
@@ -14,19 +65,10 @@
     <loc>/author/chen/</loc>
     <lastmod>2022-04-18T11:24:31+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-04-18T11:24:31+08:00</lastmod>
-  </url><url>
     <loc>/publication/liu-2022-evaluating/</loc>
     <lastmod>2022-04-18T11:24:31+08:00</lastmod>
   </url><url>
     <loc>/author/liu/</loc>
-    <lastmod>2022-04-18T11:24:31+08:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-04-18T11:24:31+08:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2022-04-18T11:24:31+08:00</lastmod>
   </url><url>
     <loc>/author/xinyuan-and-guo/</loc>
@@ -35,22 +77,79 @@
     <loc>/author/yazhen-and-huang/</loc>
     <lastmod>2022-04-18T11:24:31+08:00</lastmod>
   </url><url>
+    <loc>/author/others/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/xian-2022-analysis/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/chaoyi-guo/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/dai-han-cheng/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/gu-bai-he/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/huang-chen/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/kai-wu/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/liu-xin-yuan/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/ma-xiao-tian/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/minghao-wang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/peng-wang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/silu-zhang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/tan-xian-chun/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/publication/liu-2022-uncovering/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/xiaorui-liu/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/xiaotian-ma/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/yan-hong-shuo/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhijiong-huang/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhu-kai-wei/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/zhu-yan-lei/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/ziqiao-zhou/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
     <loc>/post/my-first-post/</loc>
     <lastmod>2021-09-16T09:48:53+08:00</lastmod>
   </url><url>
     <loc>/post/</loc>
     <lastmod>2021-09-16T09:48:53+08:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/adaptation-to-climate-change/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chen2020/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/chen-huang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/climate-governance/</loc>
@@ -66,25 +165,25 @@
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jianxin-guo/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
   </url><url>
     <loc>/tag/knowledge-system/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/miaomiao-niu/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
   </url><url>
     <loc>/author/qianqian-zhang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/xianchun-tan/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/yi-wang/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/niu-2021/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
+  </url><url>
+    <loc>/author/guohao-li/</loc>
+    <lastmod>2022-10-13T10:48:30+08:00</lastmod>
   </url><url>
     <loc>/tag/abatement-strategy/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -152,9 +251,6 @@
     <loc>/author/x.-y.-meng/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/yingchao-chen/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tag/air-pollution-treatment/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -216,9 +312,6 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/feng-lianyong/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/huang-chen/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/chen-2018-a/</loc>
