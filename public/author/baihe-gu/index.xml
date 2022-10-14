@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baihe Gu | Chen Huang</title>
+    <link>/author/baihe-gu/</link>
+      <atom:link href="/author/baihe-gu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baihe Gu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0df3c4b17e3339690e8e6e427db74b5f_53718_512x512_fill_lanczos_center_3.png</url>
+      <title>Baihe Gu</title>
+      <link>/author/baihe-gu/</link>
+    </image>
+    
+    <item>
+      <title>Feasibility analysis of achieving net-zero emissions in China&#39;s power sector before 2050 based on ideal available pathways</title>
+      <link>/publication/zhai-2023-feasibility/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/zhai-2023-feasibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
